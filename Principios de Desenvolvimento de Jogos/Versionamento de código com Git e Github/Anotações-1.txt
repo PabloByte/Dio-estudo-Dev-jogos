@@ -1,0 +1,54 @@
+3 - GIT & GITHUB
+
+OBSERVAÇÃO:
+    Você pode seguir com seu trabalho no Arch Linux utilizando o Git normalmente, sem a necessidade de usar o Git Bash. O Git é uma ferramenta de controle de versão distribuída que funciona nativamente no Linux, e a maioria dos comandos do Git pode ser executada diretamente no terminal do Arch Linux.
+
+    Se você já está familiarizado com o uso do Git no Linux, não há necessidade de utilizar o Git Bash, a menos que haja uma razão específica para fazê-lo. O Git Bash é uma ferramenta destinada principalmente a usuários do Windows que desejam uma experiência semelhante ao terminal do Linux no ambiente Windows.
+
+    No Arch Linux, você pode usar o terminal nativo e executar os comandos Git diretamente. Para a maioria das operações de controle de versão, o Git funciona da mesma forma em sistemas Linux, macOS e Windows. Portanto, sinta-se à vontade para continuar usando o Git no seu ambiente Linux padrão, sem a necessidade de configurar o Git Bash.
+
+PARTES IMPORTANTES:
+
+    O que é Git? : Git é um sistema de controle de versão distribuído amplamente utilizado para o rastreamento de mudanças em código-fonte e colaboração em projetos de desenvolvimento de software.
+
+    Controle de Versão : O Git permite que você acompanhe as alterações em seu código ao longo do tempo, tornando mais fácil para várias pessoas trabalharem no mesmo projeto sem conflitos.
+
+    Repositório Git : Um repositório Git é um diretório que contém todos os arquivos, histórico de alterações e metadados relacionados a um projeto. Existem repositórios locais (no seu computador) e repositórios remotos (em servidores).
+
+    Commit : Um commit é uma alteração ou conjunto de alterações em um repositório Git. Cada commit é uma "snapshot" do projeto em um determinado momento.
+
+    Branch : Um branch é uma linha de desenvolvimento separada no Git que permite que você trabalhe em novos recursos ou correções sem afetar a linha principal de desenvolvimento. Isso facilita o desenvolvimento paralelo.
+
+    Merge : Mesclar é o processo de combinar as alterações de um branch em outro, geralmente usado para incorporar o trabalho de um branch de recurso de volta ao branch principal.
+
+    Conflitos : Conflitos ocorrem quando o Git não pode automaticamente mesclar as alterações devido a conflitos entre diferentes versões do código. Eles devem ser resolvidos manualmente.
+
+GITHUB:
+
+    O que é GitHub? : GitHub é uma plataforma de hospedagem de repositórios Git baseada na web, que permite que você compartilhe e colabore em projetos com outras pessoas.
+
+    Repositórios no GitHub : Repositórios do GitHub são repositórios Git hospedados na plataforma. Eles permitem que você colabore com outros desenvolvedores, acompanhe problemas (issues) e muito mais.
+
+    Forks : Um fork é uma cópia de um repositório no GitHub que permite que você trabalhe em suas próprias alterações sem afetar o repositório original.
+
+    Pull Requests : Um pull request (PR) é uma solicitação que um usuário faz para mesclar suas alterações de um fork de volta ao repositório original. É uma maneira de colaborar e revisar código.
+
+    Issues : As issues são usadas para rastrear tarefas, melhorias, bugs e discussões em um repositório. Elas ajudam a gerenciar o
+
+    Colaboração : O GitHub facilita a colaboração, permitindo que vários desenvolvedores trabalhem em um projeto, sigam o progresso e discutam as mudanças.
+
+    GitHub Pages : O GitHub oferece hospedagem gratuita para páginas da web estáticas por meio do GitHub Pages, o que é útil para documentação ou
+
+DICAS IMPORTANTES:
+
+    Configuração : Configure suas informações de usuário no Git com  git config e autentique-se no GitHub para facilitar o uso.
+
+    Fluxo de Trabalho : Adote um fluxo de trabalho Git, como o fluxo de ramificação (Git Flow), que facilita a organização do desenvolvimento.
+
+    Segurança : Mantenha suas credenciais seguras e configure a autenticação de dois fatores no GitHub para maior segurança.
+
+    Gitignore : Use arquivos  .gitignore para especificar quais arquivos ou diretórios não devem ser rastreados pelo Git.
+
+    Readme : Crie um arquivo README.md informativo para descrever seu projeto, seu uso e como outras pessoas podem contribuir.
+
+    Aprender e Praticar: Git e GitHub têm muitos recursos educacionais. Aprenda os conceitos básicos e pratique regularmente.
